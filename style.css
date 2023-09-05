@@ -1,0 +1,4 @@
+/*background image from font awesome*/
+body { 
+    background-image: radial-gradient(at left center, rgb(255, 228, 230), rgb(204, 251, 241));
+}

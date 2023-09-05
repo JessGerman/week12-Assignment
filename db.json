@@ -1,0 +1,39 @@
+{
+  "studentRoster": [
+    {
+      "fullName": "Walter White",
+      "studentCourse": "C++",
+      "id": 1
+    },
+    {
+      "fullName": "Jesse Pink Man",
+      "studentCourse": "JavaScript",
+      "id": 2
+    },
+    {
+      "fullName": "Sky White",
+      "studentCourse": "SQL",
+      "id": 3
+    },
+    {
+      "fullName": "Hank S.",
+      "studentCourse": "CSS from zero to hero",
+      "id": 4
+    },
+    {
+      "fullName": "Walter White JR.",
+      "studentCourse": "Full Stack Develop",
+      "id": 5
+    },
+    {
+      "fullName": "Saul Goodman",
+      "studentCourse": "Python",
+      "id": 6
+    },
+    {
+      "fullName": "Mike E.",
+      "studentCourse": "UX Design",
+      "id": 7
+    }
+  ]
+}
